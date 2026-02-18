@@ -29,4 +29,4 @@ Generar conclusiones basadas en datos para toma de decisiones
 
 ## Dashboard y link de Tableau:
 
-https://public.tableau.com/app/profile/fabian.medina8074/viz/ProyectofinalTT-
+https://public.tableau.com/app/profile/fabian.medina8074/viz/ProyectofinalTT-Telecomunicaciones/Dashboard2
