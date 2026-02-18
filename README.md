@@ -1,6 +1,6 @@
-📊 Proyecto Final – Telecomunicaciones
-Identificación de Operadores Ineficaces
-📌 Descripción del Proyecto
+## 📊 Proyecto Final – Telecomunicaciones
+### Identificación de Operadores Ineficaces
+### 📌 Descripción del Proyecto
 
 Este proyecto analiza datos del servicio de telefonía virtual CallMeMaybe, cuyo objetivo es desarrollar una funcionalidad que permita a supervisores identificar operadores ineficaces.
 
@@ -25,3 +25,8 @@ Identificar operadores ineficaces
 Validar hallazgos mediante pruebas estadísticas
 
 Generar conclusiones basadas en datos para toma de decisiones
+
+
+## Dashboard y link de Tableau:
+
+https://public.tableau.com/app/profile/fabian.medina8074/viz/ProyectofinalTT-
